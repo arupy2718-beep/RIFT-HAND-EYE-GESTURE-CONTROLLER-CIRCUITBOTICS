@@ -68,3 +68,6 @@ All actions are performed in **real time** using a **single camera window**.
 ```bash
 conda create -n eye_gesture_ai python=3.10 -y
 conda activate eye_gesture_ai
+pip install opencv-python mediapipe pyautogui numpy screen-brightness-control
+python eye_hand_control_with_brightness.py
+
