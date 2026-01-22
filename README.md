@@ -71,3 +71,54 @@ conda activate eye_gesture_ai
 pip install opencv-python mediapipe pyautogui numpy screen-brightness-control
 python eye_hand_control_with_brightness.py
 
+⚠️ Important:
+Run the project as a .py file (not in Jupyter Notebook) for proper camera and GUI support.
+
+🧪 Gesture Guide
+Gesture	Action
+Eye movement	Mouse movement
+Left-eye blink	Mouse click
+Fist	Freeze / unfreeze mouse
+Eye movement (freeze mode)	Scroll
+Thumb–index pinch	Brightness control
+Press Q	Exit application
+🎯 Applications
+
+Assistive technology for people with motor disabilities
+
+Touch-free computer interaction
+
+Smart workspaces
+
+AR/VR interfaces
+
+Human–Computer Interaction (HCI) research
+
+Hackathon & academic demonstrations
+
+🏆 Hackathon
+
+This project was developed for RIFT Hackathon.
+🔗 https://rift.pwioi.club/
+
+Special thanks to:
+
+RIFT Hackathon organizers
+
+PW IOI Club
+
+Mentors and judges for guidance and support
+
+📄 Documentation
+
+📘 Project Explanation PDF
+(Included in repository / shared separately for jury evaluation)
+
+🤝 Collaboration
+
+Open to collaboration, feedback, and improvements.
+Feel free to fork this repository, raise issues, or suggest enhancements.
+
+🧠 One-Line Impact Statement
+
+Turning human intent into digital action — no touch required.
