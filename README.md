@@ -92,18 +92,6 @@ Human–Computer Interaction (HCI) research
 
 Hackathon & academic demonstrations
 
-🏆 Hackathon
-
-This project was developed for RIFT Hackathon.
-🔗 https://rift.pwioi.club/
-
-Special thanks to:
-
-RIFT Hackathon organizers
-
-PW IOI Club
-
-Mentors and judges for guidance and support
 
 📄 Documentation
 
