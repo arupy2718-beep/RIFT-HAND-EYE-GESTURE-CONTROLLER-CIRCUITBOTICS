@@ -1,5 +1,5 @@
 # 👁️🖐️ AI Eye & Hand Gesture Control System  
-### RIFT Hackathon Project 🚀
+### Hackathon Project 🚀
 
 An AI-powered **touch-free computer control system** that allows users to control mouse movement, clicks, scrolling, and screen brightness using **eye movements and hand gestures**, all through a **single webcam**.
 
