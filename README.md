@@ -96,7 +96,6 @@ Hackathon & academic demonstrations
 📄 Documentation
 
 📘 Project Explanation PDF
-(Included in repository / shared separately for jury evaluation)
 
 🤝 Collaboration
 
