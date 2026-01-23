@@ -2,9 +2,6 @@
 
 An AI-powered **touch-free computer control system** that allows users to control mouse movement, clicks, scrolling, and screen brightness using **eye movements and hand gestures**, all through a **single webcam**.
 
-This project was built as part of the **RIFT Hackathon**.  
-🔗 Hackathon Link: https://rift.pwioi.club/
-
 ---
 
 ## 📌 Project Overview
